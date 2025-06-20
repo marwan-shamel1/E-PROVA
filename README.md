@@ -104,16 +104,18 @@ Can be easily connected to frontends (Gradio, React, etc.)
 🧠 [Original IDM-VTON Repo](https://github.com/yisol/IDM-VTON)
 
 ## 👥 Project Team
+# 🖥️ [Backend Team – E-PROVA GitHub](https://github.com/marwanMagdy66/E-Prova)
 
-🖥️ [Backend Team – E-PROVA GitHub](https://github.com/marwanMagdy66/E-Prova)
       -[Marwan magdy](https://github.com/marwanMagdy66)
       -[Mariam fathy](https://github.com/Mfathi12)
 
-🖥️ [Frontend Team – E-PROVA GitHub](https://github.com/MarwanabdalR/GraduationProject)
+# 🖥️ [Frontend Team – E-PROVA GitHub](https://github.com/MarwanabdalR/GraduationProject)
+
       -[Marwan abdelrady](https://github.com/MarwanabdalR)
       -[Mariam elsayed](https://github.com/MariamElsayed172)
 
-🖥️ [AI Team – E-PROVA GitHub](https://github.com/marwan-shamel1/E-PROVA)
+# 🖥️ [AI Team – E-PROVA GitHub](https://github.com/marwan-shamel1/E-PROVA)
+
       -[Marwan shamel](https://github.com/marwan-shamel1)
       -[Mariam samy](https://github.com/mariamsamyfarouk)
 
