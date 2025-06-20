@@ -1,4 +1,4 @@
-![logo_trans_Mega](https://github.com/user-attachments/assets/c56a3eba-66c2-436a-ae88-39ad602d76db)
+<img src="https://github.com/user-attachments/assets/c56a3eba-66c2-436a-ae88-39ad602d76db" alt="logo" width="150"/>
 # 👕 E-PROVA: Intelligent Virtual Try-On System
 
 > This project is a customized adaptation of [IDM-VTON](https://github.com/yisol/IDM-VTON), integrated with a Flask API and notebook-based pipeline to allow seamless virtual try-on experience via Google Colab.
