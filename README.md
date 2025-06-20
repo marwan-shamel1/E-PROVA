@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c56a3eba-66c2-436a-ae88-39ad602d76db" width="900" alt="logo"/>
+  <img src="https://github.com/user-attachments/assets/c56a3eba-66c2-436a-ae88-39ad602d76db" width="450" alt="logo"/>
 </p>
 # 👕 E-PROVA: Intelligent Virtual Try-On System
 
